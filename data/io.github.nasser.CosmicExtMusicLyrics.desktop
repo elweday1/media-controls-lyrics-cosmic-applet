@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Media Controls
+Comment=Panel controls for the currently playing track
+Type=Application
+Exec=cosmic-ext-music-lyrics
+Icon=audio-x-generic
+Terminal=false
+Categories=AudioVideo;Audio;
+X-CosmicApplet=true
